@@ -38,9 +38,7 @@ Utilize all of the skills and concepts that you've learned up to this point in t
 ![screenshot](screenshots/Ingredients_inventory.png)
 
 ### Instructions to Run:
-[Click here to view the deployed web app](deployed site)
-
-Or, Run Locally:
+Run Locally:
 1. If you do not have npm http-server installed, follow instuctions [here](https://www.npmjs.com/package/http-server) to install on your device
 1. Use GitHub's [Cloning Feature](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) to download a local copy of the files for this project
 1. In your command line interface, change directory into the folder that contains your copied files
